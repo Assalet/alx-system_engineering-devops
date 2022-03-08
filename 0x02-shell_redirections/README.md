@@ -11,3 +11,5 @@ SHELL_REDIRECTIONS
 4-Task 4 -Display the last 10 lines of /etc/passwd
 
 5-Task 5 -Display the first 10 lines of /etc/passwd
+
+6-Task 6 -Write a script that displays the third line of the file iacta
