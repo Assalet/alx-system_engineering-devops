@@ -1,0 +1,17 @@
+total 60
+drwxrwxr-x 2 assalet assalet 4096 Mar  8 01:16 .
+drwxrwxr-x 6 assalet assalet 4096 Mar  7 20:02 ..
+-rwxrw-r-- 1 assalet assalet   30 Mar  7 22:17 0-hello_world
+-rwxrw-r-- 1 assalet assalet   28 Mar  7 22:56 1-confused_smiley
+-rwxrw-r-- 1 assalet assalet   28 Mar  7 23:08 2-hellofile
+-rwxrw-r-- 1 assalet assalet   39 Mar  7 23:15 3-twofiles
+-rwxrw-r-- 1 assalet assalet   29 Mar  7 23:25 4-lastlines
+-rwxrw-r-- 1 assalet assalet   29 Mar  7 23:29 5-firstlines
+-rwxrw-r-- 1 assalet assalet   36 Mar  8 00:04 6-third_line
+-rwxrw-r-- 1 assalet assalet   80 Mar  8 01:01 7-file
+-rw-rw-r-- 1 assalet assalet   12 Mar  8 00:12 7-file~
+-rw-rw-r-- 1 assalet assalet   61 Mar  8 01:16 8-cwd_state
+-rw-rw-r-- 1 assalet assalet   12 Mar  8 01:03 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 assalet assalet  742 Mar  7 23:44 iacta
+-rw-rw-r-- 1 assalet assalet    0 Mar  8 01:16 ls_cwd_content
+-rw-rw-r-- 1 assalet assalet  852 Mar  8 01:06 README.md
